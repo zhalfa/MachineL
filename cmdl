@@ -1,0 +1,2 @@
+../MachineL/backpropag/src/facetrain -n shade.net -t straightrnd_train.list -1 straightrnd_test1.list -2 straightrnd_test2.list -e 75
+
